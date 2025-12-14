@@ -36,7 +36,13 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR SISO Shift Register**
+<img width="1363" height="730" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/1a4ccb2c-5028-48d9-a271-ddf6376bc587" />
+
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+<img width="1355" height="722" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/b6f2b7ea-3079-48a9-b292-5e73f5c84080" />
+
 
 **RESULTS**
+Thus the SERIAL-IN-SERIAL-OUT circuits are designed and the truth tables is verified using Quartus software.
+
